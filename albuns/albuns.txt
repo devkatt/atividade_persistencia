@@ -2,3 +2,5 @@ hoje|2023|kat|sim
 amanhã|2050|katy|sim
 taatu|2015|red hot|não
 pop|2320|katt|sim
+lol|4540|paul|sim
+ro|2023|naldo|sim
